@@ -9,7 +9,7 @@ A four-page personal website built with HTML and CSS.
 
 ## Website
 
-Live website: Publication pending.
+Live website: [https://jaretatlas.github.io/styled_website/](https://jaretatlas.github.io/styled_website/)
 
 Repository: https://github.com/jaretatlas/styled_website
 
