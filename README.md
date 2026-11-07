@@ -1,4 +1,44 @@
-# Assignment: Styled Personal Website
+# Jaret Martin - Styled Personal Website
+
+A four-page personal website built with HTML and CSS.
+
+- Home: background and education.
+- Interests: sports, travel, the outdoors, and technology.
+- Media Gallery: personal and family photos.
+- Contact Me: labeled contact fields and social links.
+
+## Website
+
+Live website: Publication pending.
+
+Repository: https://github.com/jaretatlas/styled_website
+
+## Layout and Media
+
+The pages share `style.css`. CSS Grid controls the content columns and gallery;
+Flexbox controls the navigation and social links. The layout adapts to desktop,
+tablet, and phone screens. Photos, the favicon, and custom social icons are stored
+in `images/`.
+
+Media: 13 different photos used in 17 content placements, including 11 photos on
+the Media Gallery page. Two YouTube videos are embedded on the Media Gallery page.
+
+Video sources:
+- ESPN: https://www.youtube.com/watch?v=IVA1URR7l-I
+- Semester at Sea: https://www.youtube.com/watch?v=wjDe_LKLrUA
+
+## Local Preview
+
+Open `index.html` in a browser, then use the navigation to visit the other pages.
+
+## Checks
+
+All four pages were checked at 1366, 768, and 390 pixel widths. All photos
+loaded and the pages fit without horizontal overflow. Navigation, both embedded video players, and required
+form fields were checked. The contact form is a demonstration: it reloads the
+contact page and does not send messages or create newsletter subscriptions.
+
+## Assignment Requirements
 
 ## Introduction
 
